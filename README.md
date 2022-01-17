@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gabor Jordan
+- 👀 I’m interested in electronics (audio, ham radio etc.) as hobby now, sw development is for these kind of projects with STM32 controllers.
+- 🌱 I’m currently switching from pic C18 to STM32.
+- 💞️ I’m looking to collaborate on audio and ham radio projects.
+- 📫 How to reach me : jordang.ham@ ... the biggest email provider, starting with g.
